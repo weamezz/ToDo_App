@@ -26,7 +26,7 @@ Tech Stack
     * Response body functional assertions.
     * Dynamic environment variable updates for seamless request chaining.
 
-## 📁 Project Structure
+#Project Structure
 
 * `TODO.postman_collection.json`: The main collection file containing all requests and test scripts.
 * `Environment Configuration`: (Ensure to set your `base_url` variable).
